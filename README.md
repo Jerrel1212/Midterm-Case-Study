@@ -1,1 +1,1 @@
-# Case-Study
+# IPT2-Case-Study
